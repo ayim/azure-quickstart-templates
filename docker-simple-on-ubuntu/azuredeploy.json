@@ -16,9 +16,9 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_F1",
+      "defaultValue": "Standard_NC6s_v2",
       "metadata": {
-        "description": "VM size for the Docker host."
+        "description": "GPU Enabled VM Size"
       }
     },
     "ubuntuOSVersion": {
